@@ -64,6 +64,9 @@ It can be extended with real sensors like:
 - Soil moisture sensor
 - LDR (light sensor)
 - HC-SR04 (ultrasonic)
+## System overview
+![image](https://github.com/user-attachments/assets/d3b13422-3a95-49c9-a5f1-5d18a3148d73)
+
 
 ---
 
